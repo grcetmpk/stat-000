@@ -34,8 +34,4 @@ ggplot(mtcars, aes(x = FILLTHISIN, y = FILLTHISIN)) +
   geom_FILLTHISIN()
 ```
 
-::: {.content-hidden when-format="live-revealjs"}
 
-[your solution which is only shown when rendered to pdf]
-
-:::
