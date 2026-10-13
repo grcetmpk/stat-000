@@ -1,0 +1,16 @@
+---
+title: "Lecture 1 - Intro"
+format: revealjs
+---
+
+## This is my first slide title
+
+This is some text
+
+-  This is a list item
+
+-  This is another list item 
+
+## This is another slide title
+
+blah blah blah!

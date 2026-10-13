@@ -1,0 +1,7 @@
+---
+title: "STAT 000"
+---
+
+Welcome to our really simple course website! For slides, see below: 
+
+- [Lecture 1](slides/01-intro.qmd)

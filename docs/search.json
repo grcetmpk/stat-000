@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "slides/01-intro.html#this-is-my-first-slide-title",
+    "href": "slides/01-intro.html#this-is-my-first-slide-title",
+    "title": "Lecture 1 - Intro",
+    "section": "This is my first slide title",
+    "text": "This is my first slide title\nThis is some text\n\nThis is a list item\nThis is another list item"
+  },
+  {
+    "objectID": "slides/01-intro.html#this-is-another-slide-title",
+    "href": "slides/01-intro.html#this-is-another-slide-title",
+    "title": "Lecture 1 - Intro",
+    "section": "This is another slide title",
+    "text": "This is another slide title\nblah blah blah!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STAT 000",
+    "section": "",
+    "text": "Welcome to our really simple course website! For slides, see below:\n\nLecture 1"
+  }
+]
