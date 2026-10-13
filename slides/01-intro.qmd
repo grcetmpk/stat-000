@@ -1,7 +1,13 @@
 ---
 title: "Lecture 1 - Intro"
-format: revealjs
+format: live-revealjs
+webr:
+  packages:
+    - ggplot2
+engine: knitr
 ---
+
+{{< include ../_extensions/r-wasm/live/_knitr.qmd >}}
 
 ## This is my first slide title
 
@@ -14,3 +20,22 @@ This is some text
 ## This is another slide title
 
 blah blah blah!
+
+## This is a slide with executable code!
+
+```{webr}
+# Look at the first few rows of mtcars
+
+head(FILLTHISIN)
+
+# plot mpg vs hp
+
+ggplot(mtcars, aes(x = FILLTHISIN, y = FILLTHISIN)) + 
+  geom_FILLTHISIN()
+```
+
+::: {.content-hidden when-format="live-revealjs"}
+
+[your solution which is only shown when rendered to pdf]
+
+:::
